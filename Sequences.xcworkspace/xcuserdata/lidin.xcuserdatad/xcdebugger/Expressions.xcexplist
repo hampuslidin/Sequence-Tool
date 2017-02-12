@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainTableController.updateGraphAndOutput() -&gt; ():MainTableController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "output!.string">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "static LInt.divide(LInt, LInt) -&gt; LInt:LInt.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "rem.value.first!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LInt.toIntMax() -&gt; Int64:LInt.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Int.max">
+            </PersistentString>
+            <PersistentString
+               value = "IntMax.max">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

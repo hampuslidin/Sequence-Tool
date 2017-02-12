@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Sequences.CombinedS.subscript.getter (Swift.Int) -&gt; LargeNumbers.LInt:CombinedS.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Sequences.RecursiveS.(next in _93BCA341F9BA2B37D36FBBC7C12B86F7) (Sequences.RecursiveS)(Swift.Int, elements : inout Swift.Array&lt;LargeNumbers.LInt&gt;) -&gt; Swift.Optional&lt;LargeNumbers.LInt&gt;:RecursiveS.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "index">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sequence_Tool.SequenceCell.mouseMoved (Sequence_Tool.SequenceCell)(ObjectiveC.NSEvent) -&gt; ():SequenceCell.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Sequences.SequenceGraph.drawRect (Sequences.SequenceGraph)(C.CGRect) -&gt; ():SequenceGraph.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Sequences.SequenceGraph.(transform in _3CD5B7798640608A74CE31C74F39628A) (Sequences.SequenceGraph)(LargeNumbers.LInt, fromRange : Swift.Range&lt;LargeNumbers.LInt&gt;, toRange : Swift.Range&lt;LargeNumbers.LInt&gt;) -&gt; LargeNumbers.LInt:SequenceGraph.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(n*toRangeVal/fromRangeVal).value[0]">
+            </PersistentString>
+            <PersistentString
+               value = "n.toString()">
+            </PersistentString>
+            <PersistentString
+               value = "fromRangeVal.toString()">
+            </PersistentString>
+            <PersistentString
+               value = "toRangeVal.value[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sequence_Tool.ExpressionParser.(performOperations in _385FADA81EBA897219D7053999C9F33E) (Sequence_Tool.ExpressionParser)(inout Swift.Array&lt;Swift.String&gt;, partResults : inout Swift.Array&lt;Sequences.CombinedS&gt;) -&gt; Swift.Optional&lt;Swift.String&gt;:ExpressionParser.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "expression">
+            </PersistentString>
+            <PersistentString
+               value = "partResults[0][0]">
+            </PersistentString>
+            <PersistentString
+               value = "partResults[1][0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sequence_Tool.ExpressionParser.textDidEndEditing (Sequence_Tool.ExpressionParser)(ObjectiveC.NSNotification) -&gt; ():ExpressionParser.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sequence[0..&lt;10]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sequence_Tool.ExpressionParser.(operate in _385FADA81EBA897219D7053999C9F33E) (Sequence_Tool.ExpressionParser)(Swift.Int, expression : inout Swift.Array&lt;Swift.String&gt;, partResults : inout Swift.Array&lt;Sequences.CombinedS&gt;) -&gt; Swift.Optional&lt;Swift.String&gt;:ExpressionParser.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "expression">
+            </PersistentString>
+            <PersistentString
+               value = "partResults">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sequence_Tool.ExpressionParser.textDidChange (Sequence_Tool.ExpressionParser)(ObjectiveC.NSNotification) -&gt; ():ExpressionParser.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "textView.string!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sequence_Tool.ExpressionParser.(parseExpression in _385FADA81EBA897219D7053999C9F33E) (Sequence_Tool.ExpressionParser)() -&gt; ():ExpressionParser.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stringValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sequence_Tool.SequenceGraph.(updateProperties in _62F4F01EC9F820260CED440FB3AFCD90) (Sequence_Tool.SequenceGraph)() -&gt; ():SequenceGraph.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Sequences.IntegerSequenceDelegate.printSequence (Sequences.IntegerSequenceDelegate)&lt;A : Sequences.IntegerSequenceType&gt;(A, amount : Swift.Optional&lt;Swift.Int&gt;) -&gt; ():IntegerSequenceDelegate.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Sequences.A000045.(init (Sequences.A000045.Type) -&gt; () -&gt; Sequences.A000045).(closure #1):A000045.swift">
+      </ContextState>
+      <ContextState
+         contextName = "Sequence_Tool.ExpressionParser.(getArguments in _385FADA81EBA897219D7053999C9F33E) (Sequence_Tool.ExpressionParser)(Swift.Int, expression : inout Swift.Array&lt;Swift.String&gt;, partResults : inout Swift.Array&lt;Sequences.CombinedS&gt;) -&gt; Swift.Optional&lt;(lhsArg : Sequences.CombinedS, rhsArg : Sequences.CombinedS)&gt;:ExpressionParser.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "expression">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Sequence_Tool.ExpressionParser.(parseExpression in _385FADA81EBA897219D7053999C9F33E) (Sequence_Tool.ExpressionParser)() -&gt; Swift.Optional&lt;Sequences.CombinedS&gt;:ExpressionParser.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "partResults[0][0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
